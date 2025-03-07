@@ -3,7 +3,8 @@
 
 ## Introduction
 
-Hi, I'm Vikas, a Research Analyst currently working at a tech company functioning in the healthcare space. I have 3+ years of experience in market research, competitive intelligence, data analysis, and more.
+Hi, I'm Vikas, currently pursuing an MSc. Health Data Science at University College London (UCL) in the UK. I have 3+ years of experience in market research, competitive intelligence, data analysis, and more. I am passionate about data and genomics.  
+My current research project explores the disease trajectories in the Genomics England Dataset using a list of pathogenic genes from ACMG.
 
 ## Portfolio
 You can find my portfolio projects below:  
@@ -20,6 +21,6 @@ You can find my portfolio projects below:
 - Bachelor of Science in Chemistry Hons. from University of Rajasthan, Jaipur
 
 ## Professional Experience
-- Market Research Analyst @ Triomics, India (Feb 2022 - Present)  
+- Market Research Analyst @ Triomics, India (Feb 2022 - May 2024)  
 - Market Research Consultant (Intern) @ Oncology One Pvt Ltd, Australia (Mar 2021 - Dec 2021)
  
