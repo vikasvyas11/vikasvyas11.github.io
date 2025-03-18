@@ -17,6 +17,7 @@ You can find my portfolio projects below:
 - [CO2 Emissions 1960-2011](https://public.tableau.com/views/CO2Emissions1960-2011_16510746965900/Sheet1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)  
 
 ## Education
+- Master of Science in **Health Data Science** from **University College London**, UK (QS #9)
 - Master of Science in **Biotechnology** from **The University of Melbourne**, Australia (QS #14)  
 - Bachelor of Science in Chemistry Hons. from University of Rajasthan, Jaipur
 
