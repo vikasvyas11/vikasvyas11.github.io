@@ -19,7 +19,7 @@ You can find my portfolio projects below:
 ## Education
 - Master of Science in **Health Data Science** from **University College London**, UK (QS #9)
 - Master of Science in **Biotechnology** from **The University of Melbourne**, Australia (QS #14)  
-- Bachelor of Science in Chemistry Hons. from University of Rajasthan, Jaipur
+- Bachelor of Science in Chemistry Hons. from University of Rajasthan, Jaipur, India
 
 ## Professional Experience
 - Market Research Analyst @ Triomics, India (Feb 2022 - May 2024)  
