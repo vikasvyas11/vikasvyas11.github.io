@@ -9,6 +9,7 @@ I'm looking for **Data Scientist, Data Analyst, and Research Analyst** roles in 
 
 ## Portfolio
 You can find my portfolio projects below:  
+- [Obesity Classifier with Neural Networks, RF, SVM, KNN](https://vikasvyas11.github.io/Obesity_NN.html)
 - [Indian Chemical Production between 2013 to 2021 EDA (Python)](https://vikasvyas11.github.io/MajorChemicals2013-2021.html)
 - [Indian Chemical Production between 2013 to 2021 Area Charts (Tableau)](https://public.tableau.com/views/IndiaChemicalProduction/Dashboard1AreaCharts?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 - [COVID-19 Confirmed Cases and Deaths in India till 2022 (Python)](https://vikasvyas11.github.io/covid19_india_lr.html)
