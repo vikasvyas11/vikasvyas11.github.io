@@ -1,10 +1,11 @@
 title: Vikas Vyas # your name (or website title) here
 email: "vyasvikas11@outlook.com"
-#logo: "/assets/images/Vikas-Photo.JPG?"  your photo (or logo) here
+logo: "/assets/images/Vikas-Photo.JPG?"  #your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   My hard skills include: SQL, Tableau, Excel/Google Sheets, and Python. 
   <br><br>
-  <a href="https://www.linkedin.com/in/vikasvyas11/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/vikasvyas11/">View My LinkedIn Profile</a>
+  <a href="https://github.com/vikasvyas11/vikasvyas11.github.io">View My Github Profile</a>
 showdownloads: true  
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
