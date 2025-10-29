@@ -3,8 +3,9 @@
 
 ## Introduction
 
-Hi, I'm Vikas, currently pursuing an MSc. Health Data Science at University College London (UCL) in the UK. I have 3+ years of experience in market research, competitive intelligence, data analysis, and more. I am passionate about data and genomics.  
-My current research project explores the disease trajectories in the Genomics England Dataset using a list of pathogenic genes from ACMG.
+Hi, I'm Vikas, a recent postgraduate from University College London (UCL) with a degree in **Health Data Science**. I have 3+ years of experience in market research, competitive intelligence, data analysis, and more. I am passionate about data and genomics.  
+My current research project explores the disease trajectories in the Genomics England Dataset using a list of pathogenic genes from ACMG.  
+I'm looking for **Data Scientist, Data Analyst, and Research Analyst** roles in the UK!
 
 ## Portfolio
 You can find my portfolio projects below:  
@@ -17,11 +18,12 @@ You can find my portfolio projects below:
 - [CO2 Emissions 1960-2011](https://public.tableau.com/views/CO2Emissions1960-2011_16510746965900/Sheet1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)  
 
 ## Education
-- Master of Science in **Health Data Science** from **University College London**, UK (QS #9)
-- Master of Science in **Biotechnology** from **The University of Melbourne**, Australia (QS #14)  
+- Master of Science in **Health Data Science** from **University College London**, UK 
+- Master of Science in **Biotechnology** from **The University of Melbourne**, Australia  
 - Bachelor of Science in Chemistry Hons. from University of Rajasthan, Jaipur, India
 
 ## Professional Experience
+- Volunteer Data Analyst @ Noah's Ark Children's Hospice, UK (May 2025 - Sep 2025)
 - Market Research Analyst @ Triomics, India (Feb 2022 - May 2024)  
-- Market Research Consultant (Intern) @ Oncology One Pvt Ltd, Australia (Mar 2021 - Dec 2021)
+- Student Consultant (Intern) @ Oncology One Pvt Ltd, Australia (Mar 2021 - Dec 2021)
  
