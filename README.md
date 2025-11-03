@@ -10,7 +10,7 @@ I'm looking for **Data Scientist, Data Analyst, and Research Analyst** roles in 
 ## Portfolio
 You can find my portfolio projects below:  
 - [Obesity Classifier with Neural Networks, RF, SVM, KNN](https://vikasvyas11.github.io/Obesity_NN.html)
-- [GPT from Scratch - A bot writing shitty prose based on Shakespeare's writing](https://github.com/vikasvyas11/vikasvyas11.github.io/blob/main/gpt-from-scratch-shakespeare.ipynb)
+- [GPT from Scratch - A bot writing shitty prose based on Shakespeare's writing](https://vikasvyas11.github.io/gpt-from-scratch-shakespeare.html)
 - BlackJack App with logic and code written in Python and developed on Flask and HTML (link coming soon!) 
 
 ## Education
