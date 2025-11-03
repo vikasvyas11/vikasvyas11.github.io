@@ -11,7 +11,7 @@ I'm looking for **Data Scientist, Data Analyst, and Research Analyst** roles in 
 You can find my portfolio projects below:  
 - [Obesity Classifier with Neural Networks, RF, SVM, KNN](https://vikasvyas11.github.io/Obesity_NN.html)
 - [GPT from Scratch - A bot writing shitty prose based on Shakespeare's writing](https://vikasvyas11.github.io/gpt-from-scratch-shakespeare.html)
-- BlackJack App with logic and code written in Python and developed on Flask and HTML (link coming soon!) 
+- [BlackJack App with logic and code written in Python and developed on Flask and HTML](https://blackjack-app-fowt.onrender.com/) 
 
 ## Education
 - Master of Science in **Health Data Science** from **University College London**, UK 
