@@ -21,6 +21,7 @@ You can find my portfolio projects below:
 - Bachelor of Science in Chemistry Hons. from University of Rajasthan, Jaipur, India
 
 ## Professional Experience
+- Consultant at ACESO Global Health Consultant, UK (Jan 2026 - Present)
 - Volunteer Data Analyst @ Noah's Ark Children's Hospice, UK (May 2025 - Sep 2025)
 - Market Research Analyst @ Triomics, India (Feb 2022 - May 2024)  
 - Student Consultant (Intern) @ Oncology One Pvt Ltd, Australia (Mar 2021 - Dec 2021)
