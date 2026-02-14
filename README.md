@@ -9,6 +9,7 @@ I'm looking for **Data Scientist, Data Analyst, and Research Analyst** roles in 
 
 ## Portfolio
 You can find my portfolio projects below:  
+- [Generation of synthetic medical records using Generative Adversial Networks or GANs](https://vikasvyas11.github.io/synthetic_medical_records.html)
 - [Obesity Classifier with Neural Networks, RF, SVM, KNN](https://vikasvyas11.github.io/Obesity_NN.html)
 - [GPT from Scratch Part 1 - A bot writing shitty prose based on Shakespeare's writing](https://vikasvyas11.github.io/gpt-from-scratch-shakespeare.html)
 - [BlackJack App with logic and code written in Python and developed on Flask and HTML](https://blackjack-app-fowt.onrender.com/)
